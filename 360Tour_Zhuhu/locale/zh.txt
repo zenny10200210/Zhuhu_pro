@@ -1,0 +1,69 @@
+#: locale=zh
+
+## Media
+
+### Audio
+AudioResource_A00F0190_AD01_ADFD_41E3_9B3E1D6BC5BD.mp3Url = media/audio_21C9BED5_2CCB_5BC8_41C0_9F6C87591187_zh.mp3
+AudioResource_A00F0190_AD01_ADFD_41E3_9B3E1D6BC5BD.oggUrl = media/audio_21C9BED5_2CCB_5BC8_41C0_9F6C87591187_zh.ogg
+
+### Title
+panorama_189104AE_14B0_67CF_41B3_2D08CB9B0ABC.label = 01
+panorama_1E27A0F2_14B0_1F57_41A8_2FB77FD71EB0.label = 02
+panorama_1E1C1D47_14B0_26BD_41B1_BF7530E38677.label = 03
+panorama_1E1FE5AB_14B0_E1F5_41B4_664A7A6A0215.label = 05
+panorama_1E73331A_14B0_E2D7_41AB_DC93057CC1D4.label = 06
+panorama_1E1EDF58_14B0_E153_41A1_4721780D8912.label = 07
+panorama_1E0DEC4E_14B0_274F_4176_4CD5E413EC96.label = 08
+panorama_1E09E8F8_14B0_2F53_41B4_57A08CDEA3D4.label = 09
+panorama_1E1D356F_14B0_614D_4195_B32846A597E3.label = 10
+panorama_1E1F120E_14B0_62CF_4162_CB15559A8DFE.label = 11
+panorama_1E1EFE28_14B0_62F3_418D_29B29D2A476A.label = 12
+panorama_1E1CA9F9_14B0_2155_41A0_B704BF3F4DE7.label = 13
+panorama_1E034662_14B0_2377_41A6_54F0A7A485AC.label = 14
+panorama_1E1E72A5_14B3_E3FD_4186_42737782E4D9.label = 15
+panorama_1E0E700F_14B3_FECD_41A2_A17E41FE38DA.label = 16
+panorama_1E0E3D43_14B3_E6B5_41A2_501D6BD0B413.label = 17
+panorama_1E0EAA46_14B0_22BF_419D_9CEE7224B1B3.label = 18
+panorama_1E1C063E_14B0_22CF_41B4_16E571A0098C.label = 19
+panorama_1E1E9218_14B0_62D3_4182_1A7F30B4BCC0.label = 20
+panorama_1E0E0EFC_14B0_6353_41B3_A5F34A397A20.label = 21
+panorama_1E1D9B1C_14B0_62D3_41B2_0AA56E2B952C.label = 22
+panorama_1E1CF6B1_14B0_23D5_415C_3AA26E94978C.label = 23
+panorama_1E04C321_14B0_22F5_41A9_A68DA862B9BF.label = 24
+video_30297F61_3ED1_E771_4199_7A7122B8A002.label = 3句話
+video_30C529FD_3ED1_EB51_41AB_151B7E751088.label = purple
+
+### Video
+videolevel_31BE2D0D_3F00_46B5_41CB_82BEA31F697B.posterURL = media/video_30297F61_3ED1_E771_4199_7A7122B8A002_poster_zh.jpg
+videolevel_31BE2D0D_3F00_46B5_41CB_82BEA31F697B.url = media/video_30297F61_3ED1_E771_4199_7A7122B8A002_zh.mp4
+videolevel_30646750_3F01_C2AB_41CC_EEB33BA425F4.posterURL = media/video_30C529FD_3ED1_EB51_41AB_151B7E751088_poster_zh.jpg
+videolevel_30646750_3F01_C2AB_41CC_EEB33BA425F4.url = media/video_30C529FD_3ED1_EB51_41AB_151B7E751088_zh.mp4
+
+## Skin
+
+### Image
+Image_05EFBD6D_1822_58B3_41AF_14A42E02F1E8_mobile.url = skin/Image_05EFBD6D_1822_58B3_41AF_14A42E02F1E8_mobile_zh.png
+Image_05EFBD6D_1822_58B3_41AF_14A42E02F1E8.url = skin/Image_05EFBD6D_1822_58B3_41AF_14A42E02F1E8_zh.png
+Image_2519BA35_2860_BE4F_41B3_E67C72445AB7_mobile.url = skin/Image_2519BA35_2860_BE4F_41B3_E67C72445AB7_mobile_zh.png
+Image_2519BA35_2860_BE4F_41B3_E67C72445AB7.url = skin/Image_2519BA35_2860_BE4F_41B3_E67C72445AB7_zh.png
+Image_25C982D2_2860_6FC5_41AA_587746715D55_mobile.url = skin/Image_25C982D2_2860_6FC5_41AA_587746715D55_mobile_zh.png
+Image_25C982D2_2860_6FC5_41AA_587746715D55.url = skin/Image_25C982D2_2860_6FC5_41AA_587746715D55_zh.png
+Image_A086734C_B688_E8EE_41E4_EA24489855FF.url = skin/Image_A086734C_B688_E8EE_41E4_EA24489855FF_zh.png
+Image_A13D8087_B698_285B_41D5_D6653FFF2968.url = skin/Image_A13D8087_B698_285B_41D5_D6653FFF2968_zh.png
+Image_A1C5F345_B698_28DE_41E4_C0622377020D.url = skin/Image_A1C5F345_B698_28DE_41E4_C0622377020D_zh.png
+Image_A4CFDCF0_B6E0_1428_41DB_7335122C9650.url = skin/Image_A4CFDCF0_B6E0_1428_41DB_7335122C9650_zh.png
+Image_AC547623_B698_685B_41E2_943C0C330850.url = skin/Image_AC547623_B698_685B_41E2_943C0C330850_zh.png
+Image_AE0257C5_B69F_D7D9_41E0_50C73644696A.url = skin/Image_AE0257C5_B69F_D7D9_41E0_50C73644696A_zh.png
+
+### Multiline Text
+HTMLText_3AEE4969_2821_FAC7_41C3_57105F98E2D1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:37px;font-family:'黑體-繁 中黑';"><B>振吾亭</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'黑體-繁 中黑';">竹湖東側開闢了這座竹林，逐年擴大種植，竹類包括了許多稀有品種，並立石誌記，用水泥石塊鋪成彎曲步道，自成一區，稱作百竹園卻沒有圍籬。竹林與湖畔繁花覆蓋的振吾亭，相映成趣。</SPAN></SPAN></DIV></div>
+HTMLText_3953DF43_2820_B6CB_4198_28970762A1BB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:37px;font-family:'黑體-繁 中黑';"><B>薪火相傳</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'黑體-繁 中黑';">沒有庚子賠款，沒有國家補助，五十年前，散居海内外的交大學長齊心一カ，慷慨解囊，募集一百萬元台弊，買下博愛校區土地，胼手胝足，篳路藍縷地將交通大學在台 復校。五十年後，老學長們燃起的這把薪火續續相傳，照明了竹湖畔莘莘學子，點亮了風城頭巍巍黌宇，更輝彩了台灣島高科技產業。 </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'黑體-繁 中黑';">值此交大在台復校五十週年之際，校友會飲水思源，感念母校作育之恩，顧懷師長惇誨之殷，特商請藝術家曾郁文造此風動水動藝術品「薪火相傳」相贈母校。此座造景左右各有脩竹八柱，柱頂噴灑五十米凌空白練，於湖心交織搭成彩虹橋，其樣貌若似中原薪火跨海東傳 , 髣髴八方風雲際會九洲，但又宛如母校棣華相攜，此鉅作風起兮而水涌，山鳴兮而谷應，是交大百年傳承之寫照，是母校師友崢嶸之風姿，謹以此作祝願母校百年長青、千載永續。</SPAN></SPAN></DIV></div>
+HTMLText_3AEE4969_2821_FAC7_41C3_57105F98E2D1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:18.5px;font-family:'黑體-繁 中黑';"><B>振吾亭</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'黑體-繁 中黑';">竹湖東側開闢了這座竹林，逐年擴大種植，竹類包括了許多稀有品種，並立石誌記，用水泥石塊鋪成彎曲步道，自成一區，稱作百竹園卻沒有圍籬。竹林與湖畔繁花覆蓋的振吾亭，相映成趣。</SPAN></SPAN></DIV></div>
+HTMLText_3953DF43_2820_B6CB_4198_28970762A1BB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:18.5px;font-family:'黑體-繁 中黑';"><B>薪火相傳</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'黑體-繁 中黑';">沒有庚子賠款，沒有國家補助，五十年前，散居海内外的交大學長齊心一カ，慷慨解囊，募集一百萬元台弊，買下博愛校區土地，胼手胝足，篳路藍縷地將交通大學在台 復校。五十年後，老學長們燃起的這把薪火續續相傳，照明了竹湖畔莘莘學子，點亮了風城頭巍巍黌宇，更輝彩了台灣島高科技產業。 </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-family:'黑體-繁 中黑';">值此交大在台復校五十週年之際，校友會飲水思源，感念母校作育之恩，顧懷師長惇誨之殷，特商請藝術家曾郁文造此風動水動藝術品「薪火相傳」相贈母校。此座造景左右各有脩竹八柱，柱頂噴灑五十米凌空白練，於湖心交織搭成彩虹橋，其樣貌若似中原薪火跨海東傳 , 髣髴八方風雲際會九洲，但又宛如母校棣華相攜，此鉅作風起兮而水涌，山鳴兮而谷應，是交大百年傳承之寫照，是母校師友崢嶸之風姿，謹以此作祝願母校百年長青、千載永續。</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
